@@ -2,6 +2,8 @@
 //Elijah Story
 //10-2-2020
 
+
+
 void setup(){
     size(800,800);
 }
